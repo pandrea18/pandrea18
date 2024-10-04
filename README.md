@@ -26,4 +26,4 @@ If you'd like to discuss projects, collaborations, or just connect, feel free to
 
 ---
 
-✨ *Thank you for visiting my profile! I'm always eager to learn new skills and take on new challenges.* ✨
+✨ *I'm a programmer, so I'm strong with code but not with descriptions. This was written with the help of ChatGPT.* ✨
