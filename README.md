@@ -23,7 +23,3 @@ With my background in Cybersecurity and my interest in web development, my goal 
 
 ## 📫 Get in Touch
 If you'd like to discuss projects, collaborations, or just connect, feel free to reach out to me on [LinkedIn](#) or through the issues on my repositories!
-
----
-
-✨ *I'm a programmer, so I'm strong with code but not with descriptions. This was written with the help of ChatGPT.* ✨
