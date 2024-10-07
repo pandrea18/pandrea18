@@ -6,7 +6,7 @@
 
 ## 🔧 Technical Skills
 
-- **Programming Languages:** PHP, Python, C, HTML, CSS
+- **Programming Languages:** PHP, Python, C, HTML, CSS, Javascript
 - **Frameworks & Libraries:** 
   - Backend: [Laravel](https://laravel.com/)
   - Frontend: [Vue.js](https://vuejs.org/)
