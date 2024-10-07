@@ -20,6 +20,3 @@ As an intern, I've worked on various projects focused on the development of web 
 
 ## 🎯 Goals & Future Projects
 With my background in Cybersecurity and my interest in web development, my goal is to become a well-rounded developer with strong programming and security skills. I'm looking forward to working on projects that integrate **security** and **usability**, contributing to building reliable and secure software.
-
-## 📫 Get in Touch
-If you'd like to discuss projects, collaborations, or just connect, feel free to reach out to me on [LinkedIn](www.linkedin.com/in/andrea-pompili-a5258530a) or through the issues on my repositories!
