@@ -8,8 +8,8 @@
 
 - **Programming Languages:** PHP, Python, C, HTML, CSS, Javascript
 - **Frameworks & Libraries:** 
-  - Backend: [Laravel](https://laravel.com/)
-  - Frontend: [Vue.js](https://vuejs.org/)
+  - [Laravel](https://laravel.com/)
+  - [Vue.js](https://vuejs.org/)
 - **Operating Systems:** Ubuntu, Windows
 - **Tools & Technologies:** Virtual Machines, Docker
 - **Other Interests:** Cybersecurity, Full-Stack Web Development, Secure Architecture Design
