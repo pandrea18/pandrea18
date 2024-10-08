@@ -11,7 +11,10 @@
   - [Laravel](https://laravel.com/)
   - [Vue.js](https://vuejs.org/)
 - **Operating Systems:** Ubuntu, Windows
-- **Tools & Technologies:** Virtual Machines, Docker
+- **Tools & Technologies:**
+  - [VirtualBox](https://www.virtualbox.org/)
+  - [Docker](https://www.docker.com/)
+  - [Figma](https://www.figma.com/)
 - **Other Interests:** Cybersecurity, Full-Stack Web Development, Secure Architecture Design
 
 ## 💻 Work Experience
